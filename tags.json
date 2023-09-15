@@ -11,12 +11,12 @@
   },
   "testing": {
     "description": "Pre-releases",
-    "last_updated": "2023-09-14T06:11:31.533Z",
+    "last_updated": "2023-09-15T06:11:36.918Z",
     "latest": false,
     "tags": [
       "testing",
-      "testing-0.21.784",
-      "testing-b59ed37"
+      "testing-0.21.786",
+      "testing-f0f8d59"
     ]
   }
 }
